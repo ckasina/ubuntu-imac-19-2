@@ -1,6 +1,4 @@
-# Ubuntu/Linux installed + running on Mac!
-
-👾 How I installed Ubuntu 22.04 LTS on the 2019 iMac 21.5" 👾
+# 👾 How I installed Ubuntu 22.04 on the 2019 iMac 👾
 
 I made this tutorial since for various sections of this process, since a lot of tutorials (whilst they do give detailed instructions) they're not forwards compatible with breaking changes both Apple and the Ubuntu open source community have made / will make. Which increase the difficulty of getting Ubuntu to run smoothly on Mac.
 
