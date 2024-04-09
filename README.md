@@ -90,7 +90,7 @@ Once you've opened Etcher you'll be greeted with the above screen. Then follow t
 
 There's a few more things you'll need to do before we move one just to make things easier later:
 
-### Wi-Fi Driver Info:
+### Wi-Fi Driver Info
 
 Open up your terminal and run:
 
@@ -162,3 +162,44 @@ Nonetheless! here are the steps...
    **Screenshot goes here!**
 
 ### Wi-Fi
+
+Remember the Wi-Fi driver output I asked you to save [earlier](#Wi-Fi-Driver-Info), now is the time to open that back up
+
+```
+rough notes:
+
+https://github.com/AdityaGarg8/macOS-Big-Sur-WiFi-Firmware
+
+/lib/firmware/brcmfmac
+
+
+
+#same
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/macOS ver/nihau-X3.clmb>)
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/Ubuntu ver/brcmfmac4364b2-pcie.clm_blob>)
+
+#same
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/Ubuntu ver/brcmfmac4364b2-pcie.txcap_blob>)
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/macOS ver/nihau-X3.txcb>)
+
+#same
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/Ubuntu ver (same as original, just a copy)/brcmfmac4364b2-pcie.Apple Inc.-iMac19,2.bin>)
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/Ubuntu ver (same as original, just a copy)/brcmfmac4364b2-pcie.apple,nihau.bin>)
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/macOS ver/nihau.trx>)
+
+#same
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/Ubuntu ver (same as original, just a copy)/brcmfmac4364b2-pcie.bin>)
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/Ubuntu ver (same as original, just a copy)/brcmfmac4364b2-pcie.txt>)
+
+[Title](<../../../../Downloads/CORRECT FINAL FIRMWARE FOR IMAC192 WIFI/macOS ver/P-nihau-X3_M-HRPN_V-m__m-7.7.txt>)
+
+```
